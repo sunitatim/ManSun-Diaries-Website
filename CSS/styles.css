@@ -1,0 +1,32 @@
+
+    h1{
+            color: goldenrod;
+        }
+        
+        p{
+            color: red;
+    
+        }
+
+            hr{
+            color: black;
+            height: 5px;
+            border-style: dotted none none;
+            border-width: 10px;
+            width: 10%;
+        }
+
+                td{
+            color: blueviolet;
+            font-size: large;
+            font-style: italic;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+                    table{
+            border: red;
+        }
+                    ol{
+                        font-style: italic;
+                        color: #A86464;
+
+        }
